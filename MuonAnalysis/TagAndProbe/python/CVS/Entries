@@ -1,0 +1,16 @@
+/MuonPerformanceESProducer_cfi.py/1.11/Fri Jul 30 14:46:02 2010//TV08-00-02
+/MuonPerformanceESSource_cfi.py/1.4/Fri Jul 30 14:46:02 2010//TV08-00-02
+/common_modules_cff.py/1.14/Mon Apr 30 09:42:09 2012//TV08-00-02
+/common_variables_cff.py/1.32/Tue May  1 15:01:19 2012//TV08-00-02
+/expectedHitsComputer_cfi.py/1.1/Mon Feb 14 13:48:39 2011//TV08-00-02
+/fakerate_all_cff.py/1.1/Fri Apr 27 16:47:25 2012//TV08-00-02
+/fakerate_common_cff.py/1.1/Fri Apr 27 16:47:25 2012//TV08-00-02
+/fakerate_jetPlusProbe_cff.py/1.1/Fri Apr 27 16:47:25 2012//TV08-00-02
+/fakerate_wPlusProbe_cff.py/1.1/Fri Apr 27 16:47:25 2012//TV08-00-02
+/fakerate_zPlusProbe_cff.py/1.1/Fri Apr 27 16:47:25 2012//TV08-00-02
+/mvaIsoVariables_cff.py/1.1/Fri Apr 27 08:32:37 2012//TV08-00-02
+/mvaIsoVariables_cfi.py/1.1/Fri Apr 27 08:32:37 2012//TV08-00-02
+/nearbyMuonsInfo_cfi.py/1.3/Thu Feb 10 01:07:56 2011//TV08-00-02
+/radialIso_cfi.py/1.1/Mon Apr 30 09:42:09 2012//TV08-00-02
+D/jpsi////
+D/muon////

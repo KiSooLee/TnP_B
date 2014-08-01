@@ -1,0 +1,27 @@
+/Makefile/1.2/Tue Oct 13 07:56:01 2009//TV08-00-02
+/fit.py/1.10/Fri Mar 12 10:24:55 2010//TV08-00-02
+/fitMuonID.py/1.5/Mon May 16 20:28:40 2011//TV08-00-02
+/fitMuonID_BPH-10-002.py/1.4/Thu Jul 29 08:34:31 2010//TV08-00-02
+/fitMuonID_ICHEP.py/1.7/Thu Jul 29 08:34:31 2010//TV08-00-02
+/fitMuonID_Paper2010.py/1.7/Tue May  3 07:25:17 2011//TV08-00-02
+/fitTrackQuality_Paper2010.py/1.3/Thu Mar 31 15:25:28 2011//TV08-00-02
+/fitTracking.py/1.16/Tue Feb 22 15:28:24 2011//TV08-00-02
+/fitTrigger.py/1.3/Tue May 25 21:26:54 2010//TV08-00-02
+/fitTrigger_BPH-10-002.py/1.4/Thu Jul 29 08:34:31 2010//TV08-00-02
+/fitTrigger_ICHEP.py/1.9/Thu Jul 29 08:34:31 2010//TV08-00-02
+/merge.sh/1.2/Thu Apr  7 20:14:28 2011//TV08-00-02
+/plotMuonID.cxx/1.5/Mon May 16 20:28:40 2011//TV08-00-02
+/plotMuonID_BPH-10-002.cxx/1.3/Thu Jul 29 08:34:31 2010//TV08-00-02
+/plotMuonID_ICHEP.cxx/1.8/Thu Jul 29 08:34:31 2010//TV08-00-02
+/plotMuonID_Paper2010.cxx/1.6/Thu Mar 31 15:25:28 2011//TV08-00-02
+/plotTracking.cxx/1.7/Tue Feb  1 14:23:15 2011//TV08-00-02
+/plotTrigger.cxx/1.3/Tue May 25 21:26:54 2010//TV08-00-02
+/plotTrigger_BPH-10-002.cxx/1.3/Thu Jul 29 08:34:31 2010//TV08-00-02
+/plotTrigger_ICHEP.cxx/1.9/Thu Jul 29 08:34:31 2010//TV08-00-02
+/plotUtil.cxx/1.24/Mon May 16 20:28:40 2011//TV08-00-02
+/printEffTable.cxx/1.3/Thu Mar 31 15:25:28 2011//TV08-00-02
+/tp_from_MuOniaPattuple_Data_cfg.py/1.2/Tue Feb  1 18:56:40 2011//TV08-00-02
+/tp_from_MuOniaPattuple_MC_cfg.py/1.2/Tue Feb  1 18:56:33 2011//TV08-00-02
+/tp_from_aod_simple_Data.py/1.19/Mon Apr 30 10:25:05 2012//TV08-00-02
+/tp_from_aod_simple_MC.py/1.19/Mon Apr 30 10:25:04 2012//TV08-00-02
+D
