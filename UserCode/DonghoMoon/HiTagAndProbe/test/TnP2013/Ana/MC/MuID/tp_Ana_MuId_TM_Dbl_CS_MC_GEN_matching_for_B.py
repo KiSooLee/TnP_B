@@ -14,7 +14,7 @@ PDFName = "cbPlusPoly"
 
 process.TagProbeFitTreeAnalyzer = cms.EDAnalyzer("TagProbeFitTreeAnalyzer",
     # IO parameters:
-    InputFileNames = cms.vstring("/afs/cern.ch/work/k/kilee/tutorial/cms538_pPb/src/UserCode/HiTagAndProbe/test/TnP2013/ProdMerge/MC/20140730_B/tnp_pA_MC_Prod_Merge_for_B_GEN_matching_20140730.root"),
+    InputFileNames = cms.vstring("/afs/cern.ch/user/k/kilee/public/TnP_B/UserCode/DonghoMoon/HiTagAndProbe/test/TnP2013/Ana/MC/MuID/tnp_pA_MC_Prod_Merge_for_B_GEN_matching_20140730.root"),
     InputDirectoryName = cms.string("MuonIDNew2CS"),
     InputTreeName = cms.string("fitter_tree"),
     OutputFileName = cms.string("tnp_pPb_Ana_MuIdNew2CS_CBpPoly_MC_for_B_GEN_matching_test.root"),
